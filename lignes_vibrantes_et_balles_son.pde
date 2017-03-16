@@ -1,6 +1,8 @@
 // Juillet 2016 dans l'avion vers Dubai et à Dubai
 // Les mouvements se controlenet au clavier, voir keypressed.
 
+// Avec GITHUB
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 
